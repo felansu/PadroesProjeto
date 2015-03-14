@@ -1,4 +1,4 @@
-package br.com.padroes.factorymethod;
+package br.com.padroes.factorymethod.ex1;
 
 public class EmissorSMS implements Emissor{
 
