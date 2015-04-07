@@ -50,7 +50,7 @@ public class Cliente {
 	}
 
 	public void validarLimiteCredito(int i) {
-		System.out.println(i<limite?"está no limite correto":"opa, superou limite !");
+		System.out.println(i < limite ? "estÃ¡ no limite correto":"opa, superou limite !");
 	}
 
 	
